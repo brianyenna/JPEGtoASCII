@@ -1,7 +1,7 @@
 # JPEG to ASCII Converter
 Converts any JPEG image file to ASCII Art!
 ![](markdown_images/tiger.JPG)
-![](markdown_images/tiger.jpg)
+![](markdown_images/ascii_tiger.jpg)
 
 ## Basic Information:
 3 main steps are involved in the JPEGtoASCII converter:
