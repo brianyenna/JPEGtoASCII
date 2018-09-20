@@ -1,6 +1,14 @@
 # JPEG to Colour ASCII converter
 Converts any JPEG image to coloured ASCII
 
+<img src=markdown_images/mountain.jpg width="40%">.
+<img src=markdown_images/mountain_ascii.jpg width="30%">.
+
+Using a k-means clustering algorithm (with 5 and 10 clusters respectively):
+
+<img src=markdown_images/mountain_ascii_cluster_5.jpg width="35%">.
+<img src=markdown_images/mountain_ascii_cluster_10.jpg width="35%">.
+
 ## Basic Information: 
 3 main steps are involved in the `JPEGColourConverter` class:
 1. Given an image, a numpy array is generated (height * width * num_channels). The image is resized to fit the `max_size` tuple (max_height, max_width). Simply put, the resized image will have dimensions smaller than or equal to the dimensions specified in the `max_size` tuple. The resize ratio is set to min(original_height/max_height, original_width/max_width). 
