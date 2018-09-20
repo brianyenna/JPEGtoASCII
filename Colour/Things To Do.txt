@@ -1,0 +1,3 @@
+1. Make a recursive directory walker that creates the needed folders on the go
+2. Add argparse, so that you can choose to use clustering or not (with a specifier for how many num_clusters to use)
+3. Learn how to use multithreading so you can get the 'loading environment' animation

@@ -1,0 +1,5 @@
+1. Implement colour? 
+2. Find a way to nicely display the ASCII art
+
+Resources Used:
+http://alexmic.net/letter-pixel-count/
