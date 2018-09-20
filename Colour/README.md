@@ -1,13 +1,13 @@
 # JPEG to Colour ASCII converter
 Converts any JPEG image to coloured ASCII
 
-<img src=markdown_images/mountain.jpg width="40%">.
-<img src=markdown_images/mountain_ascii.jpg width="30%">.
+<img src=markdown_images/mountain.jpg width="40%">
+<img src=markdown_images/mountain_ascii.JPG width="30%">
 
 Using a k-means clustering algorithm (with 5 and 10 clusters respectively):
 
-<img src=markdown_images/mountain_ascii_cluster_5.jpg width="35%">.
-<img src=markdown_images/mountain_ascii_cluster_10.jpg width="35%">.
+<img src=markdown_images/mountain_ascii_cluster_5.JPG width="35%">
+<img src=markdown_images/mountain_ascii_cluster_10.JPG width="35%">
 
 ## Basic Information: 
 3 main steps are involved in the `JPEGColourConverter` class:
